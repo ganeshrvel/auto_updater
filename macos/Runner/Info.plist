@@ -29,7 +29,7 @@
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>SUFeedURL</key>
-	<string>https://sparkle-project.org/files/sparkletestcast.xml</string>
+	<string>https://github.com/sachaarbonel/auto_updater/releases/download/v1.0/appcast.xml</string>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 </dict>
